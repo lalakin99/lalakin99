@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Lal!
 
 I'm a passionate **Data Scientist and Analyst** with a Master's degree from Politecnico di Torino.  
-I specialize in applying data-driven techniques to real-world problems, with a particular love for motorsports and optimization.  
 My journey revolves around solving challenges in **data analysis, machine learning**, and **strategy optimization**, and I'm always eager to learn and grow.  
 
 ---
@@ -14,15 +13,9 @@ My journey revolves around solving challenges in **data analysis, machine learni
 
 - **Bachelor's Degree in Industrial Engineering with a Minor in Energy Systems Engineering**  
   *Istanbul Bilgi University (2021)*  
-  For my Major I focused on Optimization, Mathematical Modelling, Business Intelligence, Economics; whilst for my Minor Degree I worked on Renewable Energy Sources, Nuclear Energy and Enviromental, Social and Governance (ESG).
-
----
-
-## 🚀 What I Do
-- 📊 **Data Analysis and Visualization**: Transforming raw data into meaningful insights.
-- 🧠 **Machine Learning and Optimization**: Developing predictive models and optimizing systems.
-- 🏎️ **Motorsport Strategy Analytics**: Exploring cutting-edge techniques for performance optimization.
-
+  For my Major I focused on Optimization, Mathematical Modelling, Business Intelligence, Economics
+  For my Minor Degree I worked on Renewable Energy Sources, Nuclear Energy and Enviromental, Social and Governance (ESG).
+  
 ---
 
 ## ⚙️ Tools and Technologies
